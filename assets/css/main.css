@@ -1,0 +1,36 @@
+h1 { color: red;}
+h3 { color: yellow;}
+p { color:blue;}
+#eli1 {
+    color: black;
+}
+#eli2 {
+    color: greenyellow;
+}
+#eli3 {
+    color: black;
+    letter-spacing: 2px; 
+    text-decoration: underline;
+}
+#eli4 {
+    color: red;
+}
+#eli5 {
+    color: peru;
+}
+#eli6 {
+    color: purple;
+}
+#eli7 {
+    color: mediumspringgreen;
+}
+#eli8 {
+    color: hotpink;
+    text-decoration-line: underline;
+}
+table, th, td {
+   border: 1px solid black;
+}
+th > td{
+    color: tomato;
+}
